@@ -14,12 +14,12 @@ A Django-based marketplace platform for local communities to buy and sell used a
 
 **Tech stack:**
 
-* **Django** 
-* **MySQL** 
-* **Tailwind** 
+* Django
+* MySQL 
+* Tailwind 
 
 <hr>
-<br>
+
 
 **Getting Started**
 
